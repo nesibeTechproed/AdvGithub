@@ -26,8 +26,8 @@ public class Runner {
 
         //localde değişiklik
 
-        //remote repoda değşiklik
-        //---------------------------
+        //techpro branchinde değişiklik
+        //*************************
 
 
     }
